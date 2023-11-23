@@ -14,7 +14,7 @@ git clone https://github.com/sei40kr/wez-pain-control.git $XDG_CONFIG_HOME/wezte
 
 ## Usage
 
-```
+```lua
 local wezterm = require("wezterm")
 
 local config = {}
