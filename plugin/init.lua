@@ -60,4 +60,7 @@ M.action = {
   end),
 }
 
+function M.apply_to_config(_, _)
+end
+
 return M
